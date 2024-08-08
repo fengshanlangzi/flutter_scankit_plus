@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b76516f-4d7c-4e49-a4db-69df13ea8ecb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/Generated.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/Generated.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Flutter/flutter_export_environment.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/QAXQRCodeVC.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/QAXQRCodeVC.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/QAXSpecResoursLoader.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/QAXSpecResoursLoader.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGGenerateQRCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGGenerateQRCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGPermission.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGPermission.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGPermissionCamera.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGPermissionCamera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGPermissionPhoto.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGPermissionPhoto.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGQRCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGQRCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGQRCodeLog.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGQRCodeLog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanCodeDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanCodeDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanView.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanView.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanViewConfigure.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGScanViewConfigure.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGSoundEffect.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGSoundEffect.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGTorch.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGTorch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGWeakProxy.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Private/QAXQRCode/SGWeakProxy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/QAXQRCodeVC.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/QAXQRCodeVC.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/QAXSpecResoursLoader.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/QAXSpecResoursLoader.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGGenerateQRCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGGenerateQRCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGPermission.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGPermission.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGPermissionCamera.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGPermissionCamera.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGPermissionPhoto.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGPermissionPhoto.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGQRCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGQRCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGQRCodeLog.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGQRCodeLog.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanCode.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanCode.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanCodeDelegate.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanCodeDelegate.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanView.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanView.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanViewConfigure.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGScanViewConfigure.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGSoundEffect.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGSoundEffect.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGTorch.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGTorch.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGWeakProxy.h" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Headers/Public/QAXQRCode/SGWeakProxy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Local Podspecs/flutter_scankit.podspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Local Podspecs/flutter_scankit.podspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/Root.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/en.lproj/Root.strings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_end_sound.caf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_scanline@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_scanline@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_scanline_qq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_scanline_wb@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_scanline_wb@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/scan_scanline_wc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/wc_scan_album.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/wc_scan_album@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Assets/wc_scan_album@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Permission/SGPermission.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Permission/SGPermission.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Permission/SGPermissionCamera.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Permission/SGPermissionCamera.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Permission/SGPermissionPhoto.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Permission/SGPermissionPhoto.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QAX/QAXQRCodeVC.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QAX/QAXQRCodeVC.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QRCode/SGGenerateQRCode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QRCode/SGGenerateQRCode.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QRCode/SGScanCode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QRCode/SGScanCode.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/QRCode/SGScanCodeDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/ScanView/SGScanView.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/ScanView/SGScanView.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/ScanView/SGScanViewConfigure.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/ScanView/SGScanViewConfigure.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/SoundEffect/SGSoundEffect.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/SoundEffect/SGSoundEffect.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Tool/QAXSpecResoursLoader.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Tool/QAXSpecResoursLoader.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Tool/SGQRCode.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Tool/SGQRCodeLog.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Tool/SGQRCodeLog.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Torch/SGTorch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/Torch/SGTorch.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/WeakProxy/SGWeakProxy.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/QAXQRCode/Classes/WeakProxy/SGWeakProxy.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/QAXQRCode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-Runner/Pods-Runner-acknowledgements.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/QAXQRCode/QAXQRCode.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/QAXQRCode/QAXQRCode.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/QAXQRCode/QAXQRCode.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/QAXQRCode/QAXQRCode.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/QAXQRCode/ResourceBundle-QAXQRCode-QAXQRCode-Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/QAXQRCode/ResourceBundle-QAXQRCode-QAXQRCode-Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/flutter_scankit_plus/flutter_scankit.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/flutter_scankit_plus/flutter_scankit.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/flutter_scankit_plus/flutter_scankit.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/flutter_scankit_plus/flutter_scankit.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcworkspace/xcuserdata/dufangyi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcworkspace/xcuserdata/dufangyi.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner.xcworkspace/xcuserdata/dufangyi.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner.xcworkspace/xcuserdata/dufangyi.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/Classes/FlutterScankitPlusPlugin.m" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/Classes/FlutterScankitPlusPlugin.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ios/flutter_scankit.podspec" beforeDir="false" afterPath="$PROJECT_DIR$/../../ios/flutter_scankit.podspec" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2kKAqN454QRMZpQ1HXHgp9w3v7k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b76516f-4d7c-4e49-a4db-69df13ea8ecb" name="Changes" comment="" />
+      <created>1723022089095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723022089095</updated>
+    </task>
+    <servers />
+  </component>
+</project>

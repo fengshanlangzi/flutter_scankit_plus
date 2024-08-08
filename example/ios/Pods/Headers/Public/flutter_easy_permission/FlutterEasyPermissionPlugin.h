@@ -1,0 +1,1 @@
+../../../../.symlinks/plugins/flutter_easy_permission/ios/Classes/FlutterEasyPermissionPlugin.h

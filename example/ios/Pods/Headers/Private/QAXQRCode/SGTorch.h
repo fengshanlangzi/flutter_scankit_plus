@@ -1,0 +1,1 @@
+../../../QAXQRCode/QAXQRCode/Classes/Torch/SGTorch.h

@@ -1,0 +1,13 @@
+CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = NO
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/EasyPermissionX" "${PODS_ROOT}/Headers/Public/QAXQRCode" "${PODS_ROOT}/Headers/Public/flutter_easy_permission" "${PODS_ROOT}/Headers/Public/flutter_scankit_plus"
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/EasyPermissionX" "${PODS_CONFIGURATION_BUILD_DIR}/QAXQRCode" "${PODS_CONFIGURATION_BUILD_DIR}/flutter_easy_permission" "${PODS_CONFIGURATION_BUILD_DIR}/flutter_scankit_plus"
+OTHER_CFLAGS = $(inherited) -fmodule-map-file="${PODS_ROOT}/Headers/Public/QAXQRCode/QAXQRCode.modulemap" -fmodule-map-file="${PODS_ROOT}/Headers/Public/flutter_easy_permission/flutter_easy_permission.modulemap" -fmodule-map-file="${PODS_ROOT}/Headers/Public/flutter_scankit_plus/flutter_scankit_plus.modulemap"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"EasyPermissionX" -l"QAXQRCode" -l"flutter_easy_permission" -l"flutter_scankit_plus"
+OTHER_SWIFT_FLAGS = $(inherited) -D COCOAPODS -Xcc -fmodule-map-file="${PODS_ROOT}/Headers/Public/QAXQRCode/QAXQRCode.modulemap" -Xcc -fmodule-map-file="${PODS_ROOT}/Headers/Public/flutter_easy_permission/flutter_easy_permission.modulemap" -Xcc -fmodule-map-file="${PODS_ROOT}/Headers/Public/flutter_scankit_plus/flutter_scankit_plus.modulemap"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods
+PODS_XCFRAMEWORKS_BUILD_DIR = $(PODS_CONFIGURATION_BUILD_DIR)/XCFrameworkIntermediates
+USE_RECURSIVE_SCRIPT_INPUTS_IN_SCRIPT_PHASES = YES

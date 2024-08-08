@@ -1,0 +1,1 @@
+../../../QAXQRCode/QAXQRCode/Classes/QRCode/SGScanCodeDelegate.h

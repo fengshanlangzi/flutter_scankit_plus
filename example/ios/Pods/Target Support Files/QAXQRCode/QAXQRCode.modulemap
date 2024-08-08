@@ -1,0 +1,6 @@
+module QAXQRCode {
+  umbrella header "QAXQRCode-umbrella.h"
+
+  export *
+  module * { export * }
+}

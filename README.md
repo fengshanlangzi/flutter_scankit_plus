@@ -1,1 +1,1 @@
-# flutter_scankit_plus
+# flutterScanKitPlus

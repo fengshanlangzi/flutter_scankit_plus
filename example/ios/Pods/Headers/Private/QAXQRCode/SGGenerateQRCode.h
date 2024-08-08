@@ -1,0 +1,1 @@
+../../../QAXQRCode/QAXQRCode/Classes/QRCode/SGGenerateQRCode.h

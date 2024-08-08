@@ -1,0 +1,1 @@
+../../../Target Support Files/flutter_easy_permission/flutter_easy_permission-umbrella.h

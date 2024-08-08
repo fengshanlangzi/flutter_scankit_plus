@@ -1,0 +1,6 @@
+module flutter_easy_permission {
+  umbrella header "flutter_easy_permission-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module flutter_scankit_plus {
+  umbrella header "flutter_scankit_plus-umbrella.h"
+
+  export *
+  module * { export * }
+}
