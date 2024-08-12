@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/SoundEffect/SGSoundEffect.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/SoundEffect/SGSoundEffect.h

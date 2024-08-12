@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/Tool/QAXSpecResoursLoader.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/Tool/QAXSpecResoursLoader.h

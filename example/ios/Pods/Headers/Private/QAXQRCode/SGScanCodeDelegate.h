@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/QRCode/SGScanCodeDelegate.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/QRCode/SGScanCodeDelegate.h

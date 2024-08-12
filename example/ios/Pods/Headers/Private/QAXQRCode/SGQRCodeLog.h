@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/Tool/SGQRCodeLog.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/Tool/SGQRCodeLog.h

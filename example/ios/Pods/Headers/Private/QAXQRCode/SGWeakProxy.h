@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/WeakProxy/SGWeakProxy.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/WeakProxy/SGWeakProxy.h

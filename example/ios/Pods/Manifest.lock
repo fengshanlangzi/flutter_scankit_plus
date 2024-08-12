@@ -8,8 +8,8 @@ PODS:
     - Flutter
   - flutter_scankit_plus (0.0.1):
     - Flutter
-    - QAXQRCode (~> 0.3.0)
-  - QAXQRCode (0.3.0)
+    - QAXQRCode (~> 0.4.0)
+  - QAXQRCode (0.4.0)
 
 DEPENDENCIES:
   - EasyPermissionX/Camera
@@ -17,11 +17,11 @@ DEPENDENCIES:
   - Flutter (from `Flutter`)
   - flutter_easy_permission (from `.symlinks/plugins/flutter_easy_permission/ios`)
   - flutter_scankit_plus (from `.symlinks/plugins/flutter_scankit_plus/ios`)
+  - QAXQRCode (from `../../../QAXQRCode`)
 
 SPEC REPOS:
   trunk:
     - EasyPermissionX
-    - QAXQRCode
 
 EXTERNAL SOURCES:
   Flutter:
@@ -30,14 +30,16 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/flutter_easy_permission/ios"
   flutter_scankit_plus:
     :path: ".symlinks/plugins/flutter_scankit_plus/ios"
+  QAXQRCode:
+    :path: "../../../QAXQRCode"
 
 SPEC CHECKSUMS:
   EasyPermissionX: ff4c438f6ee80488f873b4cb921e32d982523067
   Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
   flutter_easy_permission: c67b480f134ff748c069cac2d645f873de2b7880
-  flutter_scankit_plus: 6c1d5aeb421df0834f567190f5b42b0b9535e33b
-  QAXQRCode: a0f947ef24d9b766b5561495d75a2e2e27811512
+  flutter_scankit_plus: b17fd7d60d8b1a0049880c0142d07be18dc2a37d
+  QAXQRCode: 6f3cb55863e872fd368a8c00ec7cfdd835940c7c
 
-PODFILE CHECKSUM: 85800215939cead94545ec5d0e53999c38c15dc7
+PODFILE CHECKSUM: ef6da9ac75d90a993668393779cc5d74c2abeebb
 
 COCOAPODS: 1.12.0

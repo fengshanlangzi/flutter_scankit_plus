@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/Permission/SGPermissionCamera.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/Permission/SGPermissionCamera.h

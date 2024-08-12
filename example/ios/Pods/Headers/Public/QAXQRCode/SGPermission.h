@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/Permission/SGPermission.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/Permission/SGPermission.h

@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/ScanView/SGScanView.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/ScanView/SGScanView.h

@@ -1,1 +1,1 @@
-../../../QAXQRCode/QAXQRCode/Classes/QAX/QAXQRCodeVC.h
+../../../../../../../QAXQRCode/QAXQRCode/Classes/QAX/QAXQRCodeVC.h

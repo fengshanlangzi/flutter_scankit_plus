@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/Users/dufangyi/dufangyi/Language/Flutter/flutter
-FLUTTER_APPLICATION_PATH=/Users/dufangyi/Desktop/code/flutteScanKitPlus/flutter_scankit_plus/example
+FLUTTER_APPLICATION_PATH=/Users/dufangyi/Desktop/code/flutter_scankit_plus/example
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
@@ -9,5 +9,5 @@ FLUTTER_BUILD_NUMBER=0.0.1
 EXCLUDED_ARCHS[sdk=iphonesimulator*]=i386
 DART_OBFUSCATION=false
 TRACK_WIDGET_CREATION=false
-TREE_SHAKE_ICONS=true
-PACKAGE_CONFIG=/Users/dufangyi/Desktop/code/flutteScanKitPlus/flutter_scankit_plus/example/.dart_tool/package_config.json
+TREE_SHAKE_ICONS=false
+PACKAGE_CONFIG=.dart_tool/package_config.json
